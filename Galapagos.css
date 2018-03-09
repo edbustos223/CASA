@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+    color: blue;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	color: forestgreen;
+	font-family: 'Rammetto One'
+}
+
+h2{
+    color: forestgreen;
+    font-family: 'Rammetto One'
+
+}
+
+/*margen pilas*/
+
+.contenedor{
+    width: 90%;
+    max-width: 10080px;
+    min-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:  2rem;
+    margin-bottom: 2rem;
+    background-color: darksalmon
+}
+
+p {
+    width: 60%
+}
+
+img{
+    width: 70%
+}
+
+.contenedor2{
+    width: 70%;
+}
